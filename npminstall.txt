@@ -10,3 +10,5 @@ npm install body-parser // post
 //비동기적인 것을 순차적으로 할 때
 npm install fxjs
 npm install ramda
+
+gitgub desktop 사용
